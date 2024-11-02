@@ -1,1 +1,0 @@
-import{a5 as t,j as r,k as a,J as n,K as s,h as c,a7 as l}from"./index-BPiheEjh.js";const _={};function u(m,e){const o=l("router-view");return c(),r(s,null,[e[0]||(e[0]=a("div",null,"布局架子",-1)),n(o)],64)}const f=t(_,[["render",u]]);export{f as default};
