@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{H as r,o}from"./index-Brba0GsC.js";const t={};function c(n,a){return o(),r("div",null,"个人头像")}const f=e(t,[["render",c]]);export{f as default};
